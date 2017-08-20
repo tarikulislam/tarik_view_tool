@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TarikViewTool::Renderer.copyright 'Tarikul Islam', 'All rights reserved'
+```
 
 ## Development
 
