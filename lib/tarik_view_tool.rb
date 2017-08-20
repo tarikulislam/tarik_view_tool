@@ -1,6 +1,6 @@
-require "tarik_view_tool/version"
-require "tarik_view_tool/renderer"
+require "devcamp_view_tool/version"
+require "devcamp_view_tool/renderer"
 
-module TarikViewTool
+module DevcampViewTool
   # Your code goes here...
 end
